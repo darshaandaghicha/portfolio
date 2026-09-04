@@ -15,6 +15,46 @@
         ]
     },
     "statSheet": {
-        "bio": "Born in 2001 under an eclipse. Graduated in 2022 and promptly chose the difficult route: building things instead of merely talking about them & spent the next few years turning caffeine and curiosity into production systems, security fixes, questionable side projects and the occasional “f*ck it, I'll build it myself.”"
+        "bio": "Born in 2001 under an eclipse. Graduated in 2022 and promptly chose the difficult route: building things instead of merely talking about them & spent the next few years turning caffeine and curiosity into production systems, security fixes, questionable side projects and the occasional “f*ck it, I'll build it myself.”",
+        "class": "Software Engineer",
+        "subclass": "Full Stack Developer",
+        "personal_stats": [
+            {
+                "label": "Fatigue",
+                "value": 32,
+                "tooltip": "Current Battery Level",
+                "icon": "https://github.com/darshaandaghicha/portfolio/blob/main/public/statSheetIcons/fatigue.svg"
+            },
+            {
+                "label": "Hunger",
+                "value": 78,
+                "tooltip": "Snacks Required",
+                "icon": "https://github.com/darshaandaghicha/portfolio/blob/main/public/statSheetIcons/hunger.svg"
+            },
+            {
+                "label": "Caffeine",
+                "value": 65,
+                "tooltip": "Critical Dependency",
+                "icon": "https://github.com/darshaandaghicha/portfolio/blob/main/public/statSheetIcons/caffeine.svg"
+            },
+            {
+                "label": "Curiosity",
+                "value": 99,
+                "tooltip": "Dangerous Proclivity",
+                "icon": "https://github.com/darshaandaghicha/portfolio/blob/main/public/statSheetIcons/curiosity.svg"
+            },
+            {
+                "label": "Knowledge",
+                "value": 89,
+                "tooltip": "Still loading...",
+                "icon": "https://github.com/darshaandaghicha/portfolio/blob/main/public/statSheetIcons/knowledge.svg"
+            },
+            {
+                "label": "Sleep",
+                "value": 45,
+                "tooltip": "Hours Slept",
+                "icon": "https://github.com/darshaandaghicha/portfolio/blob/main/public/statSheetIcons/sleep.svg"
+            }
+        ]
     }
 }
