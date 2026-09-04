@@ -13,5 +13,8 @@
             { "tooltip": "PostgreSQL", "url": "https://thesvg.org/icons/postgresql/default.svg" },
             { "tooltip": "Redis", "url": "https://thesvg.org/icons/redis/default.svg" }
         ]
+    },
+    "statSheet": {
+        "bio": "Born in 2001 under an eclipse. Graduated in 2022 and promptly chose the difficult route: building things instead of merely talking about them & spent the next few years turning caffeine and curiosity into production systems, security fixes, questionable side projects and the occasional “f*ck it, I'll build it myself.”"
     }
 }
