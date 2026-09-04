@@ -1,0 +1,17 @@
+{
+    "landing": {
+        "subtitle": "Full Stack Developer | System Architect | Problem Solver",
+        "caption": "I build scalable web applications and engaging digital experiences. Turning ideas into clean, efficient and impactful code.",
+        "langs_icon": [
+            { "tooltip": "React", "url": "https://thesvg.org/icons/react/default.svg" },
+            { "tooltip": "Next.js", "url": "https://thesvg.org/icons/nextdotjs/default.svg" },
+            { "tooltip": "Express.js", "url": "https://thesvg.org/icons/expressdotjs/default.svg" },
+            { "tooltip": "Nest.js", "url": "https://thesvg.org/icons/nestjs/default.svg" },
+            { "tooltip": "FastAPI", "url": "https://thesvg.org/icons/fastapi/default.svg" },
+            { "tooltip": "Django", "url": "https://thesvg.org/icons/django/default.svg" },
+            { "tooltip": "MongoDB", "url": "https://thesvg.org/icons/mongodb/default.svg" },
+            { "tooltip": "PostgreSQL", "url": "https://thesvg.org/icons/postgresql/default.svg" },
+            { "tooltip": "Redis", "url": "https://thesvg.org/icons/redis/default.svg" }
+        ]
+    }
+}
